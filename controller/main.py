@@ -1,1 +1,2 @@
 lorem controller
+lorem controller
